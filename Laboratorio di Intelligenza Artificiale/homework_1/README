@@ -1,0 +1,11 @@
+#############################################################################################
+ 
+1) Spostare questa cartella in srrg2_orazio/srrg2_orazio
+
+2) Eseguire make in srrg2_orazio/srrg2_orazio/host_build
+
+3) Compilare con il comando make aprendo un terminale in questa cartella
+
+4) Eseguire il file di testing con ./orazio_wrapper_test
+ 
+#############################################################################################
