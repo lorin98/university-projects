@@ -1,0 +1,38 @@
+TrafficSignClassification-42Classes
+	Il dataset in questione contiene tutte le classe
+	divise tra train e test. Il test è circa il 15% del train
+
+TrafficSignClassification-10RandomClasses
+	Contiene 10 classi "random" prese dal dataset completo. La
+	maggior parte sono le classi con il maggior numero di elementi,
+	mentre un paio ne hanno pochi in totale. Il numero della classe
+	e il rispettivo label che contiene il nome sono stati aggiornati
+	per mantenere un'ordinamento numero coerente. La corrispondenza è:
+	NEW	OLD
+	0	0
+	1	1
+	2	2
+ 	3	3
+	4	4
+	5	5
+	6	10
+	7	12
+	8	13
+	9	38
+
+TrafficSignClassification-10PoorestClasses
+	Contiene le 10 classi che hanno il minor numero di elementi.
+	Il numero della classe e il rispettivo label che contiene
+	il nome sono stati aggiornati per mantenere un'ordinamento
+	numero coerente. La corrispondenza è:
+	NEW	OLD
+	0	0
+	1	20
+	2	24
+ 	3	27
+	4	29
+	5	32
+	6	37
+	7	40
+	8	41
+	9	42
