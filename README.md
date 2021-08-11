@@ -1,3 +1,4 @@
+![logo](./sapienza_logo.JPG)
 # University Projects
 
 This repository contains the published projects during the academic years at [Università di Roma, La Sapienza](https://www.uniroma1.it/it/pagina-strutturale/home). The projects are grouped by course or by topic. You can find a list just below.
