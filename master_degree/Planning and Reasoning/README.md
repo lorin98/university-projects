@@ -77,7 +77,7 @@ It is an environment with two big areas and a narrow passage in the middle. The 
 
 | RRT | RRT* | InformedRRT* |
 |:----------:|:----------:|:----------:|
-| <img src="/solution_to_video/obstacles/RRT/solution_obstacles_rrt.gif" width="300" height="290"/> | **Path length minimization:**<br><img src="/solution_to_video/obstacles/RRTstar/length/solution_obstacles_rrtstar.gif" width="300" height="290"/><br>**Minimum clearance maximization:**<br><img src="/solution_to_video/obstacles/RRTstar/clearance/solution_obstacles_rrtstar.gif" width="300" height="290"/> | **Path length minimization:**<br><img src="/solution_to_video/obstacles/InfRRTstar/length/solution_obstacles_infrrtstar.gif" width="300" height="290"/><br>**Minimum clearance maximization:**<br><img src="/solution_to_video/obstacles/InfRRTstar/clearance/solution_clearance_infrrtstar.gif" width="300" height="290"/>
+| <img src="./solution_to_video/obstacles/RRT/solution_obstacles_rrt.gif" width="300" height="290"/> | **Path length minimization:**<br><img src="./solution_to_video/obstacles/RRTstar/length/solution_obstacles_rrtstar.gif" width="300" height="290"/><br>**Minimum clearance maximization:**<br><img src="./solution_to_video/obstacles/RRTstar/clearance/solution_obstacles_rrtstar.gif" width="300" height="290"/> | **Path length minimization:**<br><img src="./solution_to_video/obstacles/InfRRTstar/length/solution_obstacles_infrrtstar.gif" width="300" height="290"/><br>**Minimum clearance maximization:**<br><img src="./solution_to_video/obstacles/InfRRTstar/clearance/solution_clearance_infrrtstar.gif" width="300" height="290"/>
 
 ### 2. Maze
 
@@ -90,7 +90,7 @@ It is an enviroment created as a tricky labyrinth with lots of dead-end corridor
 
 | RRT | RRT* | InformedRRT* |
 |:----------:|:----------:|:----------:|
-| <img src="/solution_to_video/maze/RRT/solution_maze_rrt.gif" width="300" height="290"/> | <img src="/solution_to_video/maze/RRTstar/length/solution_maze_rrtstar.gif" width="300" height="290"/> | <img src="/solution_to_video/maze/InfRRTstar/length/solution_maze_infrrtstar.gif" width="300" height="290"/>
+| <img src="./solution_to_video/maze/RRT/solution_maze_rrt.gif" width="300" height="290"/> | <img src="./solution_to_video/maze/RRTstar/length/solution_maze_rrtstar.gif" width="300" height="290"/> | <img src="./solution_to_video/maze/InfRRTstar/length/solution_maze_infrrtstar.gif" width="300" height="290"/>
 
 ### 3. Real-world test
 
@@ -103,8 +103,8 @@ It is a realistic environment representing a house with several rooms and obstac
 
 | Goal | Planner |
 |:----------:|:----------:|
-| Go to the **Bedroom 3 (ID 6)** | **RRT***:<br><img src="/solution_to_video/real/RRTstar/solution_real_rrtstar_6.gif" width="500" height="360"/><br>**InformedRRT***:<br><img src="/solution_to_video/real/InfRRTstar/solution_real_infrrtstar_6.gif" width="500" height="360"/>
-| Go to the **WC1 (ID 3)** | **RRT***:<br><img src="/solution_to_video/real/RRTstar/solution_real_rrtstar_3.gif" width="500" height="360"/><br>**InformedRRT***:<br><img src="/solution_to_video/real/InfRRTstar/solution_real_infrrtstar_3.gif" width="500" height="360"/>
+| Go to the **Bedroom 3 (ID 6)** | **RRT***:<br><img src="./solution_to_video/real/RRTstar/solution_real_rrtstar_6.gif" width="500" height="360"/><br>**InformedRRT***:<br><img src="./solution_to_video/real/InfRRTstar/solution_real_infrrtstar_6.gif" width="500" height="360"/>
+| Go to the **WC1 (ID 3)** | **RRT***:<br><img src="./solution_to_video/real/RRTstar/solution_real_rrtstar_3.gif" width="500" height="360"/><br>**InformedRRT***:<br><img src="./solution_to_video/real/InfRRTstar/solution_real_infrrtstar_3.gif" width="500" height="360"/>
 
 ## Author
 
