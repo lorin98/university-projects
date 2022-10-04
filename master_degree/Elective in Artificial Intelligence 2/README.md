@@ -2,7 +2,7 @@
 
 This repository contains the project proposed for the *Elective in Artificial Intelligence 2: Human-Robot Interaction and Reasoning Agents* course at the second year of the Master Degree in *Artificial Intelligence and Robotics* and intended to create a framework where a Pepper robot acts as a teacher for the children.
 
-All the implementational details are contained in the **[Project Report](https://gitlab.com/lello5/eai2_project/-/blob/main/report.pdf)**. You can directly check out our Project execution in this **[YouTube video](https://www.youtube.com/watch?v=97sCw_6JNRI)**.
+All the implementational details are contained in the **[Project Report](report.pdf)**. You can directly check out our Project execution in this **[YouTube video](https://www.youtube.com/watch?v=97sCw_6JNRI)**.
 
 ## Compile and run the project
 
@@ -134,10 +134,10 @@ python main.py
 ```
 
 The scripts, available for launching, are:
-- [Main Module](https://gitlab.com/lello5/eai2_project/-/blob/main/playground/main.py);
-- Plan Executors: [Global Executor](https://gitlab.com/lello5/eai2_project/-/blob/main/playground/global_executor.py) and [Classification-Evaluation Executor](https://gitlab.com/lello5/eai2_project/-/blob/main/playground/classify_evaluate_executor.py);
-- [Functional Module](https://gitlab.com/lello5/eai2_project/-/blob/main/playground/functions.py);
-- Human-Pepper Interfaces: [pepper_cmd_classes](https://gitlab.com/lello5/eai2_project/-/blob/main/playground/pepper_cmd_classes.py) and [modim_classes](https://gitlab.com/lello5/eai2_project/-/tree/main/playground/tablet/scripts) (see instruction to install and use ```MODIM``` below).
+- [Main Module](playground/main.py);
+- Plan Executors: [Global Executor](playground/global_executor.py) and [Classification-Evaluation Executor](playground/classify_evaluate_executor.py);
+- [Functional Module](playground/functions.py);
+- Human-Pepper Interfaces: [pepper_cmd_classes](playground/pepper_cmd_classes.py) and [modim_classes](playground/tablet/scripts) (see instruction to install and use ```MODIM``` below).
 
 
 They correspond to the architecture of the solution depicted in the diagram:
@@ -248,12 +248,12 @@ Else if ```<domain_name> == classify_domain```, ```<problem_name>``` can be:
 
 The outcome of each quiz problem will be a positive, medium or negative evaluation of the user.
 
-All the resultant plans can be found in the folder: [plans](https://gitlab.com/lello5/eai2_project/-/tree/main/playground/plans).
+All the resultant plans can be found in the folder: [plans](playground/plans).
 
 ## Results
 Check out our Project execution: **[Link to video](https://www.youtube.com/watch?v=97sCw_6JNRI)**.
 
-Note: during execution of the ```main.py```, auxiliary files, needed for the internal purposes of the project, will be created. You don't really need to copy them from the repository, since they will be generated automatically, but just to have idea on what they are, please, refer the folder: [utilities](https://gitlab.com/lello5/eai2_project/-/tree/main/playground/utilities).
+Note: during execution of the ```main.py```, auxiliary files, needed for the internal purposes of the project, will be created. You don't really need to copy them from the repository, since they will be generated automatically, but just to have idea on what they are, please, refer the folder: [utilities](playground/utilities).
 
 ## Authors
 
